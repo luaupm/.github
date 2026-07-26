@@ -1,10 +1,19 @@
 <div align="center">
 
+<a href="https://luaupm.com">
+  <img src="https://luaupm.com/lpm-logo.png" alt="lpm logo" width="110" />
+</a>
+
 # lpm
 
 **The package manager for Luau.**
 
-[luaupm.com](https://luaupm.com) · [Browse packages](https://luaupm.com/search) · [Policies](https://luaupm.com/policies)
+<a href="https://luaupm.com"><img src="https://img.shields.io/badge/luaupm.com-e61048?style=flat-square&logoColor=white" alt="Website" /></a>
+<a href="https://luaupm.com/search"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.luaupm.com%2Fstats.json&query=%24.packages&label=packages&color=e61048&style=flat-square" alt="Packages" /></a>
+<a href="https://luaupm.com"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.luaupm.com%2Fstats.json&query=%24.downloads_total&label=downloads&color=e61048&style=flat-square" alt="Downloads" /></a>
+<img src="https://img.shields.io/badge/license-MIT-2ea44f?style=flat-square" alt="MIT license" />
+
+[Browse packages](https://luaupm.com/search) · [Docs](https://luaupm.com/docs) · [Policies](https://luaupm.com/policies)
 
 </div>
 
