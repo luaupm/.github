@@ -24,7 +24,7 @@ once, install it anywhere Luau runs: Roblox (shared and server), [Lune](https://
 [Lute](https://github.com/luau-lang/lute), or plain Luau.
 
 ```sh
-lpm add alicesaidhi/vide
+lpm add chief/core
 ```
 
 Publishing is just as short. Sign in with GitHub, and your first publish
