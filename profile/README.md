@@ -6,7 +6,7 @@
 
 # lpm
 
-**The package manager for Luau.**
+**A package manager built for Luau.**
 
 <a href="https://luaupm.com"><img src="https://img.shields.io/badge/luaupm.com-e61048?style=flat-square&logoColor=white" alt="Website" /></a>
 <a href="https://luaupm.com/search"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcdn.luaupm.com%2Fstats.json&query=%24.packages&label=packages&color=e61048&style=flat-square" alt="Packages" /></a>
@@ -80,17 +80,12 @@ The registry worker behind publishing, search, and the API, along with
 [luaupm.com](https://luaupm.com) itself, aren't publicly available. The CLI and
 the index are MIT licensed.
 
-## Status
-
-The registry is young and the ecosystem is small, which is another way of
-saying good names are still available. The [docs](https://luaupm.com/docs)
-cover every command, the manifest, and the registry internals; [sharp
-edges](https://luaupm.com/docs/sharp-edges) collects the behavior that
-surprises people.
-
 Found a bug? Open an issue on the relevant repo, or ask in
 [Discord](https://discord.gg/NYfNd7yq5n). Found a security problem in a
 package or in the registry itself? Email
 [admin@luaupm.com](mailto:admin@luaupm.com) instead of opening a public
 issue. The full rules of the road are at
 [luaupm.com/policies](https://luaupm.com/policies).
+
+
+<small>LPM/lpm-luau is not in any way affiliated with or endorsed by the Luau team or Roblox Corporation/any of its subsidaries.</small>
