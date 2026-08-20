@@ -4,7 +4,7 @@
   <img src="https://luaupm.com/lpm-logo.png" alt="lpm logo" width="110" />
 </a>
 
-# lpm
+# LPM
 
 **A package manager built for Luau.**
 
